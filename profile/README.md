@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! Welcome to DataRes</h2>
 
 <div align="center">
-    <img src="logo.png" width="50%"></img>
+    <img src="https://ucladatares.com/static/media/logo.416d2c1d.svg" width="50%"></img>
 </div>
 
 <h4 align="center">At DataRes, we solve problems and craft stories with data.</h4>
