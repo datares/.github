@@ -1,15 +1,7 @@
-<style>
-img {
-  width: 50%;
-  height: auto;
-  align: center;
-}
-</style>
-
 <h2 align="center">👋 Hello! Welcome to DataRes</h2>
 
 <div align="center">
-    <img src="assets/logo.png"></img>
+    <img src="logo.png" width="50%"></img>
 </div>
 
 <h4 align="center">At DataRes, we solve problems and craft stories with data.</h4>
