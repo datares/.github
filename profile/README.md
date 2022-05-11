@@ -12,7 +12,7 @@
 <ul>
     <li>Data Blog Team - This team works on simpler analytics based projects and publishes a variety of data centric journal articles</li>
     <li>Research Team - This team tackles advanced machine learning problems in the areas of computer vision, natural language processing, and reinforcement learning.</li>
-    <li>Consulting Team - This team offers pro bono consulting services to startups and companies in the Los Angeles area (currently not accepting applications)</li>
+    <li>Consulting Team - This team offers pro bono consulting services to startups and companies in the Los Angeles area</li>
 </ul>
 
 <h4>How can I stay up to date with events/projects happening at DataRes?</h4>
